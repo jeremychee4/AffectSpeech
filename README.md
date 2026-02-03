@@ -15,7 +15,7 @@ This repository provides the official distribution of the **AffetSpeech** datase
 - **Emotions:** angry, disgust, fear, happy, neutral, sad, surprise, contempt, calm
 - **Language:** English
 - **Format:** 16kHz, 16-bit, PCM wav.
-- **Annotations:** Includes *sentiment polarity*, *open-vocabulary emotion captions*, *prosody (pitch, tempo, energy)*, *emotional intensity*, *prominent segments*, and *semantic content analysis*.
+- **Annotations (ShareGPT format​):** Includes *sentiment polarity*, *open-vocabulary emotion captions*, *prosody (pitch, tempo, energy)*, *emotional intensity*, *prominent segments*, and *semantic content analysis*.
 
 ---
 
