@@ -39,6 +39,7 @@ AffetSpeech is released under a **Restricted End User License Agreement (EULA)**
 ├── EULA.pdf               # License agreement to be signed
 ├── README.md              # Project description
 ├── metadata_sample/       # Small samples of annotations for preview
-│   └── sample_labels.json
+│   └── sample_sec.json
+│   └── sample_ess.json
 └── scripts/               # Helper scripts for data loading/evaluation
     └── data_loader.py
