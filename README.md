@@ -29,7 +29,7 @@ AffetSpeech is released under a **Restricted End User License Agreement (EULA)**
 3.  **Submit**: Send the scanned PDF copy to **qitianhua@seu.edu.cn**.
     * **Email Subject**: `[AffetSpeech Request] Name - Institution`
     * **Email Body**: Please use your **institutional email address** (.edu, .ac, etc.) and briefly describe your intended use of the dataset.
-4.  **Verification**: Once approved, we will send you a private link to download the full annotations.
+4.  **Verification**: Once approved, we will send you a private link to download the full version.
 
 ---
 
