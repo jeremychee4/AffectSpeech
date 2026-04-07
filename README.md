@@ -33,19 +33,6 @@ AffetSpeech is released under a **Restricted End User License Agreement (EULA)**
 
 ---
 
-## 📁 Repository Structure
-```text
-.
-├── EULA.pdf               # License agreement to be signed
-├── README.md              # Project description
-├── metadata_sample/       # Small samples of annotations for preview
-│   └── sample_sec.json
-│   └── sample_ess.json
-└── scripts/               # Helper scripts for data loading/evaluation
-    └── data_loader.py
-
----
-
 ## 📑 Citation
 
 If you use **AffectSpeech** in your research, please cite:
@@ -64,3 +51,16 @@ If you use **AffectSpeech** in your research, please cite:
 
 ### Plain Text
 Qi, T., Zheng, W., Schuller, B. W., Luo, Z., & Li, H. (2026). *AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis*. arXiv:2604.04160.
+
+---
+
+## 📁 Repository Structure
+```text
+.
+├── EULA.pdf               # License agreement to be signed
+├── README.md              # Project description
+├── metadata_sample/       # Small samples of annotations for preview
+│   └── sample_sec.json
+│   └── sample_ess.json
+└── scripts/               # Helper scripts for data loading/evaluation
+    └── data_loader.py
