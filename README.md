@@ -48,7 +48,7 @@ If you use **AffectSpeech** in your research, please cite:
   primaryClass = {eess.AS},
   url          = {https://arxiv.org/abs/2604.04160}
 }
-
+```
 ### Plain Text
 Qi, T., Zheng, W., Schuller, B. W., Luo, Z., & Li, H. (2026). *AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis*. arXiv:2604.04160.
 
@@ -64,3 +64,4 @@ Qi, T., Zheng, W., Schuller, B. W., Luo, Z., & Li, H. (2026). *AffectSpeech: A L
 │   └── sample_ess.json
 └── scripts/               # Helper scripts for data loading/evaluation
     └── data_loader.py
+```
