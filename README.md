@@ -43,3 +43,22 @@ AffetSpeech is released under a **Restricted End User License Agreement (EULA)**
 │   └── sample_ess.json
 └── scripts/               # Helper scripts for data loading/evaluation
     └── data_loader.py
+
+## 📑 Citation
+
+If you use **AffectSpeech** in your research, please cite:
+
+### BibTeX
+```bibtex
+@article{Qi2026AffectSpeech,
+  title        = {AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis},
+  author       = {Qi, Tianhua and Zheng, Wenming and Schuller, Bj{\"o}rn W. and Luo, Zhaojie and Li, Haizhou},
+  year         = {2026},
+  eprint       = {2604.04160},
+  archivePrefix= {arXiv},
+  primaryClass = {eess.AS},
+  url          = {https://arxiv.org/abs/2604.04160}
+}
+
+### Plain Text
+Qi, T., Zheng, W., Schuller, B. W., Luo, Z., & Li, H. (2026). *AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis*. arXiv:2604.04160.
