@@ -5,6 +5,8 @@
 
 This repository provides the official distribution of the **AffetSpeech** dataset. AffetSpeech is a large-scale emotional speech dataset with fine-grained, multi-level textual descriptions, enabling advanced research in speech emotion captioning (SEC) and emotional speech synthesis (ESS), containing 253,799 high-quality emotional speech data and 1,522,794 natural language descriptions.
 
+The demo can be accessed at: <a href="https://jeremychee4.github.io/AffectSpeech_Demo/" target="_blank">  https://jeremychee4.github.io/AffectSpeech_Demo/</a>.
+
 <!-- ## 📢 News -->
 <!-- * **[2026/02/01]** AffetSpeech v1.0 is officially released! -->
 
