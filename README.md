@@ -41,15 +41,20 @@ If you use **AffectSpeech** in your research, please cite:
 
 ### BibTeX
 ```bibtex
-@article{qi2026affectspeech,
-  title        = {AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis},
-  author       = {Qi, Tianhua and Zheng, Wenming and Schuller, Bj{\"o}rn W. and Luo, Zhaojie and Li, Haizhou},
-  journal={arXiv preprint arXiv:2604.04160},
-  year         = {2026}
+@ARTICLE{11656683,
+  author={Qi, Tianhua and Zheng, Wenming and Schuller, Björn W. and Luo, Zhaojie and Li, Haizhou},
+  journal={IEEE Transactions on Audio, Speech and Language Processing}, 
+  title={AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TASLPRO.2026.3724419}
 }
+
 ```
 ### Plain Text
-Qi, T., Zheng, W., Schuller, B. W., Luo, Z., & Li, H. (2026). *AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis*. arXiv:2604.04160.
+T. Qi, W. Zheng, B. W. Schuller, Z. Luo and H. Li, "AffectSpeech: A Large-Scale Emotional Speech Dataset with Fine-Grained Textual Descriptions for Speech Emotion Captioning and Synthesis," in IEEE Transactions on Audio, Speech and Language Processing, doi: 10.1109/TASLPRO.2026.3724419.
 
 ---
 
