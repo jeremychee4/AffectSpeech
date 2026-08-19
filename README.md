@@ -7,6 +7,8 @@ This repository provides the official distribution of the **AffetSpeech** datase
 
 The demo can be accessed at: <a href="https://jeremychee4.github.io/AffectSpeech_Demo/" target="_blank">  https://jeremychee4.github.io/AffectSpeech_Demo/</a>.
 
+The paper is available at: <a href="https://ieeexplore.ieee.org/document/11656683" target="_blank"> https://ieeexplore.ieee.org/document/11656683</a>
+
 <!-- ## 📢 News -->
 <!-- * **[2026/02/01]** AffetSpeech v1.0 is officially released! -->
 
