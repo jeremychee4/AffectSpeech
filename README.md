@@ -30,7 +30,7 @@ AffetSpeech is released under a **Restricted End User License Agreement (EULA)**
 ### Steps to Apply:
 1.  **Download** the [EULA.pdf](EULA.pdf) from this repository.
 2.  **Read and Sign**: Please read the terms carefully. The form must be signed by a **Permanent Staff/Faculty Member** (e.g., Professor or Senior Researcher) of your institution.
-3.  **Submit**: Send the scanned PDF copy to **qitianhua@seu.edu.cn**.
+3.  **Submit**: Send the scanned PDF copy to **qitianhua@seu.edu.cn** and please keep **wenming_zheng@seu.edu.cn** in CC.
     * **Email Subject**: `[AffetSpeech Request] Name - Institution`
     * **Email Body**: Please use your **institutional email address** (.edu, .ac, etc.) and briefly describe your intended use of the dataset.
 4.  **Verification**: Once approved, we will send you a private link to download the full version.
